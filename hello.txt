@@ -1,4 +1,4 @@
-Hello Git
+Hello from master
 Second line
 Third line
 Fourth line
