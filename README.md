@@ -1,6 +1,6 @@
 # Git Playground :rocket:
 
-> learn git by actually breaking things, fixing them and understanding that what Git is doing behind scenes.
+> Learn git by actually breaking things, fixing them and understanding that what Git is doing behind scenes.
 
 ---
 
