@@ -18,10 +18,10 @@ It helps developers:
 
 Instead of saving multiple folders like:
 
-Project_Final
-Project_Final2
-Project_Final_Last
-Project_Final_Last_Final
+- Project_Final
+- Project_Final2
+- Project_Final_Last
+- Project_Final_Last_Final
 
 Git stores every change efficiently inside a repository.
 
@@ -29,16 +29,16 @@ Git stores every change efficiently inside a repository.
 
 # 📚 Concepts Covered
 
--Git Repository
--git init
--git status
--git add
--git commit
--git log
--git diff
--git restore
--git mv
--git rm
+- Git Repository
+- git init
+- git status
+- git add
+- git commit
+- git log
+- git diff
+- git restore
+- git mv
+- git rm
 
 ---
 
@@ -59,15 +59,16 @@ By the end of this module, you will be able to:
 
 # 📂 Folder Structure
 
+```text
 git-basics/
 │
 ├── README.md
 │
 ├── practice/
-│   ├── lab1/
+│   ├── lab-1/
 │   │   └── README.md
 │   │
-│   └── lab2/
+│   └── lab-2/
 │       └── README.md
 │
 ├── cheatsheet/
@@ -75,7 +76,7 @@ git-basics/
 │
 └── scenario-based/
     └── README.md
-
+```
 ---
 
 # 🧪 Practice Labs
@@ -121,6 +122,7 @@ Practice solving real-world Git situations such as:
 
 ## 🔄 Basic Git Workflow
 
+```text
 Working Directory
         │
         ▼
@@ -134,6 +136,7 @@ Working Directory
         │
         ▼
  Git Repository
+ ```
 
  ---
 
