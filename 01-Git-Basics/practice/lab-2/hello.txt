@@ -1,0 +1,3 @@
+Hello Github
+This is meowphilops
+It's fun learning git on your own
