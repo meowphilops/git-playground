@@ -66,13 +66,13 @@ git-playground/
 
 ## Beginner
 
-- [ ] Install Git
-- [ ] Configure Git
-- [ ] Repository initialization
-- [ ] Staging Area
-- [ ] Commits
-- [ ] Git Log
-- [ ] Viewing Differences
+- [x] Install Git
+- [x] Configure Git
+- [x] Repository initialization
+- [x] Staging Area
+- [x] Commits
+- [x] Git Log
+- [x] Viewing Differences
 - [ ] Ignoring Files
 
 ---
@@ -117,7 +117,9 @@ README.md
 
 practice/
 
-mistakes.md
+lab-1/
+
+lab-2/
 
 cheatsheet.md
 ```
@@ -148,7 +150,7 @@ Every topic includes:
 
 | Topic | Status |
 |--------|--------|
-| Git Basics | ✅ |
+| Git Basics | partially done |
 | Branching | ⏳ |
 | Merge | ⏳ |
 | Rebase | ⏳ |
