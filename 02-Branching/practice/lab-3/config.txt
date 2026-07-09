@@ -1,1 +1,3 @@
-Theme: Blue
+Theme: Dark
+Accent: Blue
+
